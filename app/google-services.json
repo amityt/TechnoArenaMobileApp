@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084077033596",
+    "firebase_url": "https://technoarenamobile.firebaseio.com",
+    "project_id": "technoarenamobile",
+    "storage_bucket": "technoarenamobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084077033596:android:49ce8474569a6212b361f9",
+        "android_client_info": {
+          "package_name": "com.example.technoarenaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084077033596-fdsd8mlrdp0ckfe0j1cj68t3rvfoif4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.technoarenaapp",
+            "certificate_hash": "915692601da74fa44656afbb6513479fdd6c8108"
+          }
+        },
+        {
+          "client_id": "1084077033596-d3mu08vbc70cggo2asfp4jr2n55smff4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-CP_f0jgTpnXZNwUqp3U6I0bzVICjIdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084077033596-d3mu08vbc70cggo2asfp4jr2n55smff4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
